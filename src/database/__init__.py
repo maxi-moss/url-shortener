@@ -1,0 +1,1 @@
+"""Module handling database responsibilities"""
